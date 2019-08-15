@@ -4,7 +4,7 @@ Identifying the best types of apps to develop in order to generate maximum reven
 ## Getting Started
 This repository contains the jupyter notebook and necessary csv files required to run this analysis.
 
-A description of the columns contained for each database is given in the tables below:
+A description of the columns contained for each dataset is given in the tables below:
 
 ### PlayStore.csv columns
 
