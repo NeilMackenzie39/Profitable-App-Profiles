@@ -1,5 +1,5 @@
 # Profitable-App-Profiles
-Identify the best types of apps to develop to generate the most revenue on the Google Play Store &amp; Apple App Store
+Identifying the best types of apps to develop in order to generate maximum revenue on the Google Play Store &amp; Apple App Store
 
 ## Getting Started
 This repository contains the jupyter notebook and necessary csv files required to run this analysis.
